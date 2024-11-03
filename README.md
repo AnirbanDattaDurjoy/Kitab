@@ -19,7 +19,7 @@ Here's a README file for your project:
 
 - **Backend:** Django (Python)
 - **Frontend:** HTML, CSS, JavaScript
-- **Database:** SQLite (or specify if using another)
+- **Database:** SQLite ,remotemySQL,MySQL
   
 ## Installation
 
