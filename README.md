@@ -25,7 +25,7 @@ Here's a README file for your project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/kitab.git
+   git clone https:[https://github.com/AnirbanDattaDurjoy/Kitab.git]
    ```
 2. Navigate to the project directory:
    ```bash
