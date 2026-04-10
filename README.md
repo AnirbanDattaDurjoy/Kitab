@@ -240,12 +240,4 @@ For suggestions, improvements, or collaboration:
 
 ## 📄 License
 
-You can add a license here (recommended: MIT License)
-
----
-
-If you want next level upgrade, I can:
-
-* Tailor this exactly to your **real repo files (just paste structure)**
-* Add **GitHub badges (stars, forks, license, last commit)**
-* Make it look like a **top-tier trending repo README**
+A license here (recommended: MIT License)
